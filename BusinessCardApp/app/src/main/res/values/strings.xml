@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="txtName">Maxwell Martin</string>
+    <string name="txtMaxImgDescription">A professional headshot of Maxwell Martin</string>
+    <string name="txtBtnInformation">View information</string>
+    <string name="txtMajor">Computer Information Systems</string>
+    <string name="txtSchool">Texas State University</string>
+    <string name="txtPhoneNumber">(512) 698-5968</string>
+    <string name="txtEmail">maxwellhmartin1@gmail.com</string>
+    <string name="txtRole">Student</string>
+</resources>

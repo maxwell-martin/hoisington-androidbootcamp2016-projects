@@ -1,0 +1,2 @@
+rootProject.name='Oasis Spa Tablet App'
+include ':app'

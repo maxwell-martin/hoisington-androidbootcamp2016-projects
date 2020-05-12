@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Appalachian Trail Festival Tablet App</string>
+    <string name="imgHike">An image of a hiker</string>
+    <string name="txtTitle">Appalachian Trail Festival</string>
+    <string name="btnDate">Select the desired date for tickets</string>
+    <string name="txtDescription">
+        Join us for a yearlong festival celebration of daily hikes throughout the 2,184 miles of the
+        Appalachian Trail. There will be short hikes for beginners and longer hikes for more
+        experienced hikers.
+    </string>
+</resources>

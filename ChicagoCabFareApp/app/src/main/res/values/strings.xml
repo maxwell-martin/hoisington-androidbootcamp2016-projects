@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Chicago Cab Fare App</string>
+    <string name="txtTitle">Alamo Cab Company</string>
+    <string name="imgLogo">A logo for the Alamo Cab Company</string>
+    <string name="txtMileage">Enter distance in miles</string>
+    <string-array name="spinCabTypes">
+        <item>Smart Car</item>
+        <item>Sedan</item>
+        <item>Minivan</item>
+    </string-array>
+    <string name="spinPrompt">Pick a cab type</string>
+    <string name="btnCompute">Compute cost</string>
+</resources>

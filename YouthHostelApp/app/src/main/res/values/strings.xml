@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hostel</string>
+    <string name="txtTitle">Firehouse Hostel</string>
+    <string name="txtPicDescription">Picture of Hostel</string>
+    <string name="txtButton">Hostel Information</string>
+    <string name="txtHostelAddress">605 Brazos St, Austin, TX 78701</string>
+    <string name="txtHostelCostRange">Cost Range: $36 - $159 a night</string>
+</resources>

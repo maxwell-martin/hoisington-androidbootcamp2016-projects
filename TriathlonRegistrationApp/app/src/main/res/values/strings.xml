@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Triathlon Registration App</string>
+    <string name="txtTitle">Triathlon Registration</string>
+    <string name="txtAthletes">Number of Athletes on Team</string>
+    <string name="imgTriathlon">A picture of a swimmer, biker, and runner</string>
+    <string name="btnCompute">Compute Cost</string>
+    <string-array name="spinLocations">
+        <item>Lake Placid</item>
+        <item>Big Island Hawaii</item>
+        <item>Miami</item>
+    </string-array>
+    <string name="spinLocations">Pick a location</string>
+</resources>

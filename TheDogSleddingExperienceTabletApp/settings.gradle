@@ -1,0 +1,2 @@
+rootProject.name='The Dog Sledding Experience Tablet App'
+include ':app'

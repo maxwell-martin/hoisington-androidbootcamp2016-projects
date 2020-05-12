@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pick Your Topic Tablet App</string>
+    <string name="title_item_detail">Food</string>
+    <string name="imgDescription">A huge hamburger</string>
+    <string name="imgDescription2">A huge icecream sundae</string>
+    <string name="txtHamburger">THIS IS THE BIGGEST HAMBURGER IN THE WORLD!!!</string>
+    <string name="txtBroccoli">BROCCOLI IS AMAZING!!!</string>
+</resources>

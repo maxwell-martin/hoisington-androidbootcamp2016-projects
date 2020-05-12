@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Your Personal Limerick App</string>
+    <string name="txtTitle">Limerick Generator</string>
+    <string name="hintCity">Enter a city</string>
+    <string name="hintOccupation">Enter an occupation</string>
+    <string name="hintNumber">Enter a number</string>
+    <string name="hintActionVerb">Enter an action verb</string>
+    <string name="btnGenerateLimerick">Generate Limerick</string>
+    <string name="imgLimerick">Image with definition of limerick</string>
+</resources>

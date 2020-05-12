@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Wild Ginger Dinnery Delivery Tablet App</string>
+    <string name="imgDinner">An image of a dinner at Wild Ginger</string>
+    <string name="txtDescription">
+        Wild Ginger is the ultimate Asian dinner restaurant. We have chefs from China, Japan, Korea,
+        Vietnam, and Thailand. Thus, we have dishes from each of these countries. If you are looking
+        for top tier pho, our Vietnamese chef will gladly make it for you. If you are
+        looking for some pad see ew, our Thai chef will serve it right up!
+    </string>
+    <string name="btnTime">Select a time for delivery</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Average Income Tax by Country App</string>
+    <string name="txtTaxableIncome">Enter amount of taxable income</string>
+    <string name="radChina">China (25%)</string>
+    <string name="radGermany">Germany (32%)</string>
+    <string name="radSweden">Sweden (34%)</string>
+    <string name="radUsa">USA (18%)</string>
+    <string name="btnCalculate">Calculate Tax</string>
+</resources>

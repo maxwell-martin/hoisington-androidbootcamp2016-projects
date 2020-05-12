@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Piggy Bank Children\'s App</string>
+    <string name="txtTitle">Welcome to Your Piggy Bank</string>
+    <string name="imgPiggyBank">A picture of a blue piggy bank</string>
+    <string name="btnPiggyBank">Go to Piggy Bank</string>
+    <string name="etQuarters">Enter number of quarters</string>
+    <string name="etDimes">Enter number of dimes</string>
+    <string name="etNickels">Enter number of nickels</string>
+    <string name="etPennies">Enter number of pennies</string>
+    <string-array name="spinChoices">
+        <item>Saving</item>
+        <item>Spending</item>
+    </string-array>
+    <string name="btnCompute">Compute amount</string>
+    <string name="spinChoicesPrompt">Are you spending or saving?</string>
+</resources>

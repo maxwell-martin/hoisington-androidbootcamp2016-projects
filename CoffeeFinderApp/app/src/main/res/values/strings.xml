@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Coffee Finder App</string>
+    <string name="txtStellarName">stellar coffee co.</string>
+    <string name="txtStellarAddress">232 N LBJ Dr #101, San Marcos, TX 78666</string>
+    <string name="txtStellarLogo">A logo of stellar coffee co.</string>
+    <string name="txtCoffeeBarName">The Coffee Bar</string>
+    <string name="txtCoffeeBarAddress">142 N LBJ Dr, San Marcos, TX 78666</string>
+    <string name="txtCoffeeBarLogo">A logo of The Coffee Bar</string>
+    <string name="txtJosCafeName">Jo\'s Cafe</string>
+    <string name="txtJosCafeAddress">310 Mary St, San Marcos, TX 78666</string>
+    <string name="txtJosCafeLogo">A logo of Jo\'s Cafe</string>
+    <string name="txtMochasJavasName">Mochas &amp; Javas</string>
+    <string name="txtMochasJavasAddress">700 N LBJ Dr #100, San Marcos, TX 78666</string>
+    <string name="txtMochasJavasLogo">A logo for Mochas &amp; Javas</string>
+</resources>

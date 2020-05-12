@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tech Gadgets App</string>
+    <string name="txtPc">Pic of Gamer Infinity 8800 Pro SE</string>
+    <string name="txtXbox">Pic of Xbox Series X</string>
+    <string name="txtMonitorStand">Pic of NB North Bayou Dual Monitor Desk Mount Stand</string>
+    <string name="txtMonitor">Pic of Asus MG278Q 27\" WQHD 1440P 144Hz 1ms Eye Care G-Sync Compatible Adaptive Sync Gaming Monitor</string>
+    <string name="txtScuf">Pic of Scuf Prestige Xbox Controller</string>
+    <string name="btnMoreInformation">More Information</string>
+</resources>

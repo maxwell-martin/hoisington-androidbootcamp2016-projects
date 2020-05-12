@@ -1,0 +1,2 @@
+rootProject.name='Snap Fitness Tablet App'
+include ':app'

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Amtrak Train App</string>
+    <string name="txtTitle">Amtrak</string>
+    <string name="hintHour">Enter boarding hour (0–23)</string>
+    <string name="hintMinute">Enter boarding minute (0–59)</string>
+    <string name="hintTotalTripInMinutes">Enter entire trip in minutes</string>
+    <string name="btnCalculateArrivalTime">Calculate Arrival Time</string>
+    <string name="imgAmtrak">An image of an Amtrak train</string>
+    <string name="imgRedEyeArrival">An image of night time</string>
+</resources>

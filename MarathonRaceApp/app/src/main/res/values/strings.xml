@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Marathon Race App</string>
+    <string name="txtTitle">Marathon Race</string>
+    <string name="txtHours">Enter number of hours</string>
+    <string name="txtMinutes">Enter number of minutes</string>
+    <string name="btnCalculateAverageMileTime">Calculate Average Mile Time</string>
+    <string name="imgMarathon">A picture of a marathon</string>
+</resources>

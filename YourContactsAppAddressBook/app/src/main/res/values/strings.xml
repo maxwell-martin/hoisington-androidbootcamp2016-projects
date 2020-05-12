@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Your Contacts App-Address Book</string>
+    <string name="txtContact1">Andrew Jenkins</string>
+    <string name="txtContact2">Molly Johnson</string>
+    <string name="btnContactInformation">View contact</string>
+    <string name="txtAndrewJenkinsPhone">(512) 123-4567</string>
+    <string name="txtAndrewJenkinsAddress">123 Main St, Austin, TX 78701</string>
+    <string name="txtAndrewJenkinsPicDescription">A picture of Andrew Jenkins</string>
+    <string name="txtMollyJohnsonAddress">321 Main St, Austin, TX 78710</string>
+    <string name="txtMollyJohnsonPhone">(512) 765-4321</string>
+    <string name="txtMollyJohnsonPicDescription">A picture of Molly Johnson</string>
+</resources>

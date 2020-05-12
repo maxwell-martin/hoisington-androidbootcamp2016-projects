@@ -1,0 +1,2 @@
+rootProject.name='Modern Art Museums Tablet App'
+include ':app'

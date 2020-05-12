@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Split the Bill App</string>
+    <string name="txtTitle">Main St. Restaurant</string>
+    <string name="imgRestaurant">A picture of tables in a restaurant</string>
+    <string name="btnGoToBill">Go to Bill</string>
+    <string name="btnComputeBill">Compute Bill</string>
+    <string name="txtBill">Enter total meal cost</string>
+    <string name="txtPeople">Enter number of people</string>
+    <string-array name="spinService">
+        <item>Excellent</item>
+        <item>Average</item>
+        <item>Poor</item>
+    </string-array>
+    <string name="spinServicePrompt">Select quality of service</string>
+</resources>

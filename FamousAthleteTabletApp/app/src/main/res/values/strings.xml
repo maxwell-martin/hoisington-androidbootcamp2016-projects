@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Famous Athlete Tablet App</string>
+    <string name="title_item_detail">Famous Athlete</string>
+    <string name="txtName">Wilt Chamberlain</string>
+    <string name="imgDescription">A picture of Wilt Chamberlain</string>
+    <string name="txtDescription">
+        Wilton Norman Chamberlain was an American basketball player who played as a center and is
+        considered one of the greatest players in history. He played for the Philadelphia/San
+        Francisco Warriors, the Philadelphia 76ers, and the Los Angeles Lakers of the National
+        Basketball Association.
+    </string>
+    <string name="txtBirthDate">Birthday: August 21, 1936</string>
+    <string name="txtHometown">Hometown: Philadelphia, Pennsylvania</string>
+    <string name="txtStats">
+        Career Stats: G 1045, PTS 30.1, TRB 22.9, AST 4.4, FG% 54.0, FT% 51.1, PER 26.1, WS 247.3
+    </string>
+</resources>

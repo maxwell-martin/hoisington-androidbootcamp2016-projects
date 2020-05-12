@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/txtDiddyGrammys"
+        android:layout_width="261dp"
+        android:layout_height="86dp"
+        android:layout_marginTop="32dp"
+        android:text="@string/txtDiddyGrammysTitle"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.505"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imgSundance2020" />
+
+    <TextView
+        android:id="@+id/txtSundance2020Title"
+        android:layout_width="252dp"
+        android:layout_height="109dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/txtSundance2020Title"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnSundance2020"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="48dp"
+        android:layout_marginRight="48dp"
+        android:text="@string/txtButtons"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtSundance2020Title" />
+
+    <ImageView
+        android:id="@+id/imgSundance2020"
+        android:layout_width="141dp"
+        android:layout_height="109dp"
+        android:layout_marginStart="56dp"
+        android:layout_marginLeft="56dp"
+        android:contentDescription="@string/txtSundance2020ImgDescription"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtSundance2020Title"
+        app:srcCompat="@drawable/sundance2020" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="139dp"
+        android:layout_height="110dp"
+        android:layout_marginStart="52dp"
+        android:layout_marginLeft="52dp"
+        android:contentDescription="@string/txtDiddyGrammysImgDescription"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtDiddyGrammys"
+        app:srcCompat="@drawable/diddy" />
+
+    <Button
+        android:id="@+id/btnDiddyGrammys"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="52dp"
+        android:layout_marginRight="52dp"
+        android:text="@string/txtButtons"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtDiddyGrammys" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Country Cabin Rental Tablet App</string>
+    <string name="imgCabin">A picture of a cabin in the woods</string>
+    <string name="txtDescription">
+        Our cabin rentals are one of a kind! Relax in the middle of nowhere with nothing but wildlife
+        and camp fires. Roast marshmallows in the outdoor fire-pit, or watch a scary movie in the
+        movie theater with ice-cream. Do whatever your heart desires, and enjoy the peace and quiet
+        while it lasts!
+    </string>
+    <string name="radCabinMontana">Montana - 20bed, 5bath</string>
+    <string name="radCabinMinnesota">Minnesota - 30bed, 10bath</string>
+    <string name="btnRental">Select start date of rental</string>
+</resources>

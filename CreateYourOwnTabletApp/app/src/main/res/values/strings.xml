@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Create Your Own Tablet App</string>
+    <string name="txtDescription">
+        Welcome to Paintball Mania! This is the place to shoot your friends with mostly harmless
+        balls of paint! We have speedball, airball, take-the-house, woods, pipes, and more! Come out
+        and have fun!
+    </string>
+    <string name="btnDate">Select a date for your paintball party</string>
+    <string name="btnTime">Select a time for your paintball party</string>
+    <string name="imgPaintball">A picture of an airball field</string>
+</resources>

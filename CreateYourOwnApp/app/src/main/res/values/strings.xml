@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CreateYourOwnApp</string>
+    <string name="txtRedSox">9 World Series Wins</string>
+    <string name="imgRedSoxLogo">Red Sox Logo</string>
+    <string name="txtBruins">6 Stanley Cup Wins</string>
+    <string name="imgBruinsLogo">Bruins Logo</string>
+</resources>

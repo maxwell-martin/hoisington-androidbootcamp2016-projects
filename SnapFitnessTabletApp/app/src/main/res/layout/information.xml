@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/txtCostYouth"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/txtCostYouth"
+        android:textSize="50sp"
+        android:paddingLeft="50sp"
+        android:paddingBottom="60sp" />
+
+    <TextView
+        android:id="@+id/txtCostAdult"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/txtCostAdult"
+        android:textSize="50sp"
+        android:paddingLeft="50sp"
+        android:paddingBottom="60sp" />
+
+    <TextView
+        android:id="@+id/txtCostFamily"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/txtCostFamily"
+        android:textSize="50sp"
+        android:paddingLeft="50sp"
+        android:paddingBottom="60sp" />
+
+    <TextView
+        android:id="@+id/txtCostSenior"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/txtCostSenior"
+        android:textSize="50sp"
+        android:paddingLeft="50sp"
+        android:paddingBottom="60sp" />
+
+</LinearLayout>

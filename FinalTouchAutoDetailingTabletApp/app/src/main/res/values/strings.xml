@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Final Touch Auto Detailing Tablet App</string>
+    <string name="txtDescription">
+        Welcome to Final Touch Auto Detailing! We specialize in polishing, cleaning, painting,
+        and fixing! Our polish service makes your car sparkle. We hand polish every square inch. Our
+        cleaning service removes all crumbs on the inside and all dirt on the outside. Our painting
+        service can be a full re-paint or a brand new color of your choice. Last but not least, we
+        will fix anything on the outside of your car such as bumpers, windshields, etc. We are the
+        ultimate automotive detailing store because we can do just about anything.
+    </string>
+    <string name="chkPolish">$100 - Full body polish</string>
+    <string name="chkClean">$50 - Full inside and outside clean</string>
+    <string name="chkPaint">$250 - Full body re-paint or new color</string>
+    <string name="chkFix">$500 - Full body fix-up</string>
+    <string name="btnDate">Reserve date for all-day service</string>
+    <string name="imgDetail">A picture of someone detailing a car</string>
+</resources>

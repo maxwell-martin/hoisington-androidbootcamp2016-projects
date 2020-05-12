@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <TableRow>
+
+        <TextView
+            android:layout_width="600dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/txtName"
+            android:textSize="30sp" />
+
+    </TableRow>
+
+    <TableRow>
+
+        <ImageView
+            android:id="@+id/imgWilt"
+            android:layout_width="552dp"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/imgDescription"
+            android:paddingRight="1sp"
+            android:paddingBottom="1sp"
+            android:src="@drawable/wilt" />
+
+        <TextView
+            android:layout_width="400dp"
+            android:layout_height="wrap_content"
+            android:text="@string/txtDescription"
+            android:textSize="25sp" />
+
+    </TableRow>
+</TableLayout>

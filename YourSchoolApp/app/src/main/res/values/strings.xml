@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">School</string>
+    <string name="txtSchoolName">Texas State University</string>
+    <string name="txtCampusImgDescription">A picture of Texas State\'s student center.</string>
+    <string name="txtLogoImgDescription">A logo of Texas State\'s bobcat</string>
+    <string name="txtSchoolAddress">601 University Dr, San Marcos, TX 78666</string>
+    <string name="txtSchoolPhoneNumber">(512) 245-2111</string>
+    <string name="txtBtnInformation">View school information</string>
+</resources>

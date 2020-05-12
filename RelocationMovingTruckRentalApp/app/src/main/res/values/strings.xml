@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Relocation Moving Truck Rental App</string>
+    <string name="txtTitle">Relocation Rental</string>
+    <string name="hintTruckSize">Enter truck size (10, 17, or 26)</string>
+    <string name="hintMiles">Enter number of miles</string>
+    <string name="btnCalculateCost">Calculate Cost</string>
+    <string name="imgTruck">An image of a moving truck</string>
+</resources>

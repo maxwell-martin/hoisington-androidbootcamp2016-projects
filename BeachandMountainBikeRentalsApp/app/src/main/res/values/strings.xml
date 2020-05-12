@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Beach and Mountain Bike Rentals App</string>
+    <string name="beach">Picture of a beach bike</string>
+    <string name="mountain">Picture of a mountain bike</string>
+</resources>

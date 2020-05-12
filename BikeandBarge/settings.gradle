@@ -1,0 +1,2 @@
+rootProject.name='Bike and Barge'
+include ':app'

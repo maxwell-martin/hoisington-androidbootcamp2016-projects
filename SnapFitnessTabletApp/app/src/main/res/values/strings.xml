@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Snap Fitness Tablet App</string>
+    <string name="title_item_detail">Snap Fitness</string>
+    <string name="txtCostYouth">Youth (ages 14–17): $25</string>
+    <string name="txtCostAdult">Adult (18 and over): $50</string>
+    <string name="txtCostFamily">Family/Household: $75</string>
+    <string name="txtCostSenior">Active Senior: $50</string>
+    <string name="imgDescription">A picture of a gym</string>
+    <string name="txtGymDesc1">
+        We have plenty of spinner bikes to match all your indoor road-biking needs. You can even
+        take spinner classes taught by pro-bikers.
+    </string>
+    <string name="txtGymDesc2">
+        Our weight equipment is state of the art and will surely leave you tired. Just make sure to
+        ask for help if you don\'t know how to use something!
+    </string>
+    <string name="txtGymDesc3">
+        The cleaning staff sprays the entire gym down every night with chemicals that kill just
+        about all bacteria, viruses, etc. We take cleaning seriously.
+    </string>
+    <string name="txtGymDesc4">
+        The rock-climbing wall features routes from beginner to expert. You can purchase a day pass
+        or pay by the hour!
+    </string>
+</resources>

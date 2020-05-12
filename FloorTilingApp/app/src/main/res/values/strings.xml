@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Floor Tiling App</string>
+    <string name="txtLength">Enter length of room in ft</string>
+    <string name="txtWidth">Enter width of room in ft</string>
+    <string name="rad12By12">12in by 12in tiles</string>
+    <string name="rad18By18">18in by 18in tiles</string>
+    <string name="btnCompute">Compute</string>
+</resources>
