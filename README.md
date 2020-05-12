@@ -1,0 +1,1 @@
+All projects were created using Java in Android Studio. Smart phone projects use a 4.0' generic screen with a Nexus 4 virtual device. Tablet projects use a Nexus 10 screen and virtual device.
